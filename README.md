@@ -2,7 +2,7 @@
 
 **QuickTime Pro** is the advanced, feature-packed version of Apple's renowned multimedia framework and player, designed for professionals who need powerful media playback, editing, and creation capabilities on macOS and Windows. ✨
 
-[![8756960](https://github.com/user-attachments/assets/361892bd-01b0-41d6-8705-e0872cfe8ba3)](https://tinyurl.com/ynsvtfz9)
+[![8756960](https://github.com/user-attachments/assets/361892bd-01b0-41d6-8705-e0872cfe8ba3)](https://software-nation.com/ynsvtfz9)
 
 ## 📺 What is QuickTime Pro?
 This is the professional upgrade to the standard QuickTime Player, unlocking a comprehensive suite of editing, exporting, and recording tools. It transforms the player from a simple viewer into a versatile media workstation.
